@@ -21,6 +21,10 @@
 <input type="text" placeholder="Enter aadhar" name="aadhar" id="aadhar" required>
 <br>
 
+    <label for="son-in-law"><b>son-in-law Name</b></label>
+    <input type="text" placeholder="son-in-law Name" name="son-in-law" id="son-in-law" required>
+    <br>
+
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
