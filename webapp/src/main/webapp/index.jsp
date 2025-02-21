@@ -9,6 +9,10 @@
     <input type="text" placeholder="Enter Name" name="name" id="name" required>
     <br>
 
+    <label for="Father"><b>Father</b></label>
+<input type="text" placeholder="Father aadhar" name="Father" id="Father" required>
+<br>
+
     <label for="aadhar"><b>Aadhar</b></label>
 <input type="text" placeholder="Enter aadhar" name="aadhar" id="aadhar" required>
 <br>
